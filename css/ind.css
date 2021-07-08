@@ -1,0 +1,126 @@
+body{
+    background: rgba(153, 151, 62, 0.507);
+}
+
+#prim{
+
+    width: 80%;
+    margin: auto;
+}
+
+header{
+
+    background: rgba(38, 221, 14, 0.164);
+    color: rgb(0, 0, 0);
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 20px 20px;
+}
+
+#cont{ 
+
+    background: rgba(92, 42, 42, 0.733);
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 20px 20px;
+}
+
+.temas{
+
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.temas:hover{
+
+    background: rgba(219, 216, 22, 0.308);
+}
+
+.temas h2, h3, h4, #eje1{
+
+    background: rgba(255, 255, 255, 0.548);
+    text-align: center;
+    border-radius: 30px 30px 10px 10px;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;   
+    padding: 7px;
+}
+
+#li1 li a{
+
+    text-decoration: none;
+    color: black;
+}
+
+#li1 li a:hover{
+
+    font-size: large;
+    color: rgb(134, 58, 141);
+}
+
+#li1 p{
+
+    text-align: center;
+    font-size: larger;
+}
+
+#img1{
+
+    width: 300px;
+    text-align: center;
+    align-items: center;
+}
+
+#eje1 img{
+
+    width: 350px;
+}
+
+nav{
+    
+    height: 30px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+}
+
+#but{
+
+    display: block;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    border-radius: 10px 0px 0px 10px;
+}
+
+#but:hover{
+
+    background: white;
+}
+
+#but2{
+    
+    display:block;
+    width: 100px;
+    height: 30px;
+    background: white;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    margin: auto;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#but2:hover{
+
+    background: rgba(255, 255, 255, 0.432);
+}
